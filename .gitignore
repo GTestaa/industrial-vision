@@ -1,0 +1,8 @@
+.venv\
+CBSD68-dataset
+models
+average_similarities*
+image_filtering*
+Pytorch session*
+WM391*
+.DS_Store
