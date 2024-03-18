@@ -132,7 +132,7 @@ def save_average_similarities_to_csv(average_similarities):
     print("Average similarities saved to CSV file.")
 
 if __name__ == "__main__":
-    dataset_path = "CBSD68-dataset/CBSD68"
+    dataset_path = "CBSD68"
     original_folder = "original_png"
 
     choice = input("Do you want to load average similarities from a CSV file? (y/n): ")
